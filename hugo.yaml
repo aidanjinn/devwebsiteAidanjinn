@@ -9,9 +9,11 @@ params:
     Content: |
       ### A little about me:
 
-        I'm a University of Vanderbilt Graduate
+         *I'm a University of Vanderbilt Graduate.
 
-        When I'm not coding, I'm playing games or indulging in the culinary arts
+         *I'm current working on a Compiler for COOL programming language.
+
+         *When I'm not coding, I'm playing games or indulging in the culinary arts
 
   socialIcons:
     - name: github
