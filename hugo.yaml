@@ -1,4 +1,31 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Aidanjinn
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Howdy! I'm Aidan 👋"
+    Content: |
+      ### A little about me:
+
+        I'm a University of Vanderbilt Graduate
+
+        When I'm not coding, I'm playing games or indulging in the culinary arts
+
+  socialIcons:
+    - name: github
+      title: View my past/current projects
+      url: https://github.com/aidanjinn
+    - name: linkedin
+      title: Feel free to connect with me
+      url: https://www.linkedin.com/in/aidanwendorf/
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+    - identifier: blog
+      name: Blog
+      url: /posts/
