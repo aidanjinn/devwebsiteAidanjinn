@@ -10,6 +10,13 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>End to End Compiler</title>
+      <link>http://localhost:1313/posts/test1/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test1/</guid>
+      <description>COOL Language Compiler into x86 Assembly Language.</description>
+    </item>
+    <item>
+      <title>End to End Compiler</title>
       <link>http://localhost:1313/projects/compiler/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/compiler/</guid>
@@ -30,11 +37,11 @@
       <description>My personal dev website created using hugo and hosted on netlify.</description>
     </item>
     <item>
-      <title>Reselling Platform</title>
+      <title>Vanderbilt Reselling Platform</title>
       <link>http://localhost:1313/projects/reselling/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/reselling/</guid>
-      <description>Marketplace for only vanderbilt students users to buy and sell items. Try it with this Guest account -&amp;gt; Username: linkedinguest@vanderbilt.edu &amp;amp; Password: guest1234</description>
+      <description>Guest Account Username: linkedinguest@vanderbilt.edu &amp;amp; Password: guest1234</description>
     </item>
   </channel>
 </rss>
