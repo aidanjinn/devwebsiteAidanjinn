@@ -30,18 +30,18 @@
       <description>Simple Online Chat Room that supports image, audio, and video files.</description>
     </item>
     <item>
-      <title>Personal Website</title>
-      <link>http://localhost:1313/projects/website/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/website/</guid>
-      <description>My personal dev website created using hugo and hosted on netlify.</description>
-    </item>
-    <item>
       <title>Vanderbilt Reselling Platform</title>
       <link>http://localhost:1313/projects/reselling/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/reselling/</guid>
       <description>Guest Account Username: linkedinguest@vanderbilt.edu &amp;amp; Password: guest1234</description>
+    </item>
+    <item>
+      <title>NewsAPI</title>
+      <link>http://localhost:1313/projects/newsapi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/newsapi/</guid>
+      <description>A news aggregation application that provides summarized articles from multiple publications and topics</description>
     </item>
   </channel>
 </rss>
